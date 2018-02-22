@@ -1,4 +1,4 @@
-# Fungnator
+# Fungnator 1.1
 
 ## Introduction
 Fungnator is a embedded software on Atmega328 for controlling temperature and humidity seeking a better yield on mushroom production.
